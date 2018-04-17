@@ -1,22 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Apr  3 01:38:42 2018
-
-@author: aspiring1
-"""
-
-# Convolutional Neural Network
-
-# Installing Theano
-# pip install --upgrade --no-deps git+git://github.com/Theano/Theano.git
-
-# Installing Tensorflow
-# Install Tensorflow from the website https://www.tensorflow.org/versions/r0.12/get_started/
-
-# Installing Keras
-# pip install --upgrade keras
-
 # Part 1 - Building the CNN
 
 #Importing the Keras libraries and packages
